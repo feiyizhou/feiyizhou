@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there. I Am feiyizhou 👋
+### Hi there. I'm feiyizhou 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=feiyizhou&show_icons=true&number_format=long&border_radius=20&rank_icon=percentile&ring_color=75C3FD&hide=issues&include_all_commits=true&count_private=true&hide_title=true"/>
 
