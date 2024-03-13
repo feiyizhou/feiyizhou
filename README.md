@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **feiyizhou/feiyizhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there. I Am feiyizhou 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=5ime&show_icons=true&number_format=long&border_radius=20&rank_icon=percentile&ring_color=75C3FD&hide=issues&include_all_commits=true&count_private=true&hide_title=true"/>
+
+### 📫 How to reach me: 
+
+- My home page [Index](https://feiyizhou.github.io)
