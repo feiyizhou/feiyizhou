@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there. I'm feiyizhou 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feiyizhou&layout=donut-vertical)](https://github.com/feiyizhou)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feiyizhou&layout=donut-vertical&&hide=html,css)](https://github.com/feiyizhou)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feiyizhou&hide_border=true&layout=compact&text_color=151515&bg_color=fefefe&hide_title=false&card_width=210&&hide=html,css)](https://github.com/feiyizhou)
 
