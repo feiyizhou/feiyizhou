@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me: 
 
-- My blog page [Index](https://feiyizhou.github.io)
+- Blog [feiyizhou's blog](https://feiyizhou.github.io)
+- Email [Index](1491877304@qq.com)
+- Wechat feiyizhou7816
