@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 ### 💬 关于我 About me
 
-- Github https://github.com/feiyizhou
-- Blog https://feiyizhou.github.io
-- CSDN https://blog.csdn.net/gulang0309?type=blog
+- [Github](https://github.com/feiyizhou)
+- Blog   https://feiyizhou.github.io
+- CSDN   https://blog.csdn.net/gulang0309?type=blog
 
 ### 📫 联系我 Connect with me
 
