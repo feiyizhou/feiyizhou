@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me: 
 
-- My home page [Index](https://feiyizhou.github.io)
+- My blog page [Index](https://feiyizhou.github.io)
