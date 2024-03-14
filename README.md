@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://visitor-badge.laobi.icu/badge?page_id=feiyizhou" id="counter"/>
 -->
 
 ### Hi there. I'm feiyizhou 👋
@@ -36,5 +37,3 @@ Here are some ideas to get you started:
 - Email:   1491877304@qq.com
 - Wechat:  feiyizhou7816
 - QQ:      1491877304
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=feiyizhou" id="counter"/>
