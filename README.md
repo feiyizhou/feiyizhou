@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ### Hi there. I'm feiyizhou 👋
 
-![info](https://github-readme-stats.vercel.app/api?username=feiyizhou&show_icons=true&hide=prs&hide_border=true&count_private=true&theme=default_repocard&include_all_commits=true&hide_title=false&hide_rank=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feiyizhou&hide_border=true&layout=compact&text_color=151515&bg_color=fefefe&hide_title=false&card_width=210&&hide=html,css)](https://github.com/feiyizhou)
+![info](https://github-readme-stats.vercel.app/api?username=feiyizhou&show_icons=true&hide=prs&count_private=true&theme=default_repocard&include_all_commits=true&hide_title=false&hide_rank=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feiyizhou&layout=compact&text_color=151515&bg_color=fefefe&hide_title=false&card_width=210&&hide=html,css)](https://github.com/feiyizhou)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feiyizhou&layout=donut-vertical&&hide=html,css)](https://github.com/feiyizhou)
 
