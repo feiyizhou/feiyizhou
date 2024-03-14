@@ -25,10 +25,16 @@ Here are some ideas to get you started:
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=feiyizhou&theme=transparent" />
 </p>
 
-### 
+### 💬 关于我 About me
 
-### 📫 联系我 Connect with me: 
+- Github https://github.com/feiyizhou
+- Blog [Index](https://feiyizhou.github.io)
+- CSDN [](https://blog.csdn.net/gulang0309?type=blog)
 
-- Blog [feiyizhou's blog](https://feiyizhou.github.io)
+### 📫 联系我 Connect with me
+
 - Email 1491877304@qq.com
 - Wechat feiyizhou7816
+- QQ 1491877304
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zengfr" id="counter"/>
