@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there. I'm feiyizhou 👋
 
-![info](https://github-readme-stats.vercel.app/api?username=feiyizhou&hide_border=true&show_icons=true&number_format=long&border_radius=20&rank_icon=percentile&ring_color=75C3FD&hide=issues&include_all_commits=true&count_private=true&hide_title=true)
+![info](https://github-readme-stats.vercel.app/api?username=feiyizhou&hide_border=true&show_icons=true&number_format=long&border_radius=20&rank_icon=percentile&ring_color=75C3FD&hide=issues&include_all_commits=true&count_private=true&hide_title=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feiyizhou&hide_border=true&layout=compact&text_color=151515&bg_color=fefefe&hide_title=false&card_width=210&&hide=html,css)](https://github.com/feiyizhou)
 
 <p>
@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=feiyizhou&theme=transparent" />
 </p>
 
-### 📫 How to reach me: 
+### 
+
+### 📫 联系我 Connect with me: 
 
 - Blog [feiyizhou's blog](https://feiyizhou.github.io)
-- Email [1491877304@qq.com](1491877304@qq.com)
+- Email 1491877304@qq.com
 - Wechat feiyizhou7816
