@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 <img src="https://visitor-badge.laobi.icu/badge?page_id=feiyizhou" id="counter"/>
 -->
 
-### Hi there. I'm feiyizhou 👋
+### 👋 Hello, folks! 
+
+- 🖥 I'm product developer and technical writer based in ChengDu, China.
+- ✍️ I wrote technical articles on [My Blog](https://feiyizhou.github.io)
+- 🧐 I'm interested in cloud computing and AI.
 
 ![info](https://github-readme-stats.vercel.app/api?username=feiyizhou&hide_border=true&show_icons=true&number_format=long&border_radius=20&rank_icon=percentile&ring_color=75C3FD&hide=issues&include_all_commits=true&count_private=true&hide_title=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feiyizhou&hide_border=true&layout=compact&text_color=151515&bg_color=fefefe&hide_title=false&card_width=210&&hide=html,css)](https://github.com/feiyizhou)
 
-<p>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feiyizhou&theme=transparent" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=feiyizhou&hide_border=true&card_width=338&theme=transparent" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=feiyizhou&theme=transparent" />
-</p>
-
+<!--
 ### 💬 关于我 About me
 
 - [Github](https://github.com/feiyizhou)
@@ -37,3 +36,4 @@ Here are some ideas to get you started:
 - Email:   1491877304@qq.com
 - Wechat:  feiyizhou7816
 - QQ:      1491877304
+-->
